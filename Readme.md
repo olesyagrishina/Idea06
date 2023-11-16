@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/olesyagrishina/Idea06/actions/workflows/gradle.yml/badge.svg)](https://github.com/olesyagrishina/Idea06/actions/workflows/gradle.yml)
