@@ -10,6 +10,7 @@ public class VerificationPage {
     private final SelenideElement code = $("[data-test-id=code] input");
     private final SelenideElement verifyButton = $("[data-test-id=action-verify]");
     public VerificationPage() {
+
         code.shouldBe(visible);
     }
     public DashboardPage validVerify(DataHelper.VerificationCode verificationCode) {
